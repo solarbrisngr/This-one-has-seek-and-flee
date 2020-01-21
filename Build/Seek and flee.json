@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Seek and flee.data.unityweb",
+"asmCodeUrl": "Seek and flee.asm.code.unityweb",
+"asmMemoryUrl": "Seek and flee.asm.memory.unityweb",
+"asmFrameworkUrl": "Seek and flee.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
